@@ -18,6 +18,7 @@ ul {
     align-items: center;
     padding: 20px;
     row-gap: 50px;
+    background-color: darkblue;
 }
 
 .column_1{
@@ -87,6 +88,7 @@ nav ul a {
     display: flex;
     flex-direction: column;
     row-gap: 30px;
+    margin-right: 200px;
 }
 
 .card{
@@ -94,7 +96,15 @@ nav ul a {
     padding: 10px 30px;
     border-radius: 5px;
     box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.2);
+    margin-right: 480px;
 }
+
+
+.btn-primary{
+    align-items: center;
+    margin-left: 500px;
+}
+
 
 .lista_iconos{
     display: flex;
